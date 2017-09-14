@@ -26,4 +26,6 @@ Electron, React
 
 ## Acknowledgments
 
+* James Chen
+* David Huang
 * Horizons School of Technology
