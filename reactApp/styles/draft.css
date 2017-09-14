@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.landingTitle {
+  text-align: center;
+  font-family: 'Apple Chancery', 'cursive';
+  font-size: 200%;
+  font-weight: bold;
+}
+
+
+.textBox {
+  width: 480px;
+  margin: 0 auto;
+  box-sizing: border-box;
+
+}
+.editor {
+  border: 1px solid grey;
+  padding: 6px;
+}
+
+.textField {
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: table;
+};
+
+
+
+.right-align {
+	text-align: right;
+}
+
+.left-align {
+	text-align: left;
+}
+
+.center-align {
+	text-align: center;
+}
